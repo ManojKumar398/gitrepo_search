@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gitrepo_search/static/css/main.073c9b0a.css",
-    "main.js": "/gitrepo_search/static/js/main.b5a33be7.js",
+    "main.js": "/gitrepo_search/static/js/main.773b0270.js",
     "static/js/787.6bdd43af.chunk.js": "/gitrepo_search/static/js/787.6bdd43af.chunk.js",
     "index.html": "/gitrepo_search/index.html",
     "main.073c9b0a.css.map": "/gitrepo_search/static/css/main.073c9b0a.css.map",
-    "main.b5a33be7.js.map": "/gitrepo_search/static/js/main.b5a33be7.js.map",
+    "main.773b0270.js.map": "/gitrepo_search/static/js/main.773b0270.js.map",
     "787.6bdd43af.chunk.js.map": "/gitrepo_search/static/js/787.6bdd43af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b5a33be7.js"
+    "static/js/main.773b0270.js"
   ]
 }
